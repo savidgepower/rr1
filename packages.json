@@ -1,0 +1,12 @@
+"author": "James Savidge",
+"description": "An website/app",
+"dependencies": {
+  "react-redux": "7.2.2",
+  "React": "17.0.1",
+  "@babel/runtime": "7.13.7",
+  "regenerator-runtime": "0.13.7",
+  "prop-types": "15.7.2",
+  "react-is": "17.0.1",
+  "hoist-non-react-statics": "3.3.2",
+  "loose-envify": "1.4.0"  
+}
