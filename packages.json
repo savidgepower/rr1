@@ -8,5 +8,4 @@
   "prop-types": "15.7.2",
   "react-is": "17.0.1",
   "hoist-non-react-statics": "3.3.2",
-  "loose-envify": "1.4.0"  
-}
+  "loose-envify": "1.4.0" }
